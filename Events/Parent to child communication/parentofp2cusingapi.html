@@ -1,0 +1,18 @@
+<template>
+    <lightning-card
+        title="I am parent with api property"
+        icon = "utility:user"
+    >
+        <div class="slds-varv-m-around_medium"> 
+            <lightning-input type='number' value={percantage} onchange={handleonchange}>
+            </lightning-input>
+            <br/>
+
+            <c-childofp2cusingapi
+            percantage={percantage}>
+            </c-childofp2cusingapi>
+        </div>
+        
+    </lightning-card>
+    
+</template>
