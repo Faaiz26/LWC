@@ -1,1 +1,10 @@
+Events in LWC .
+
+@api is uised to pass the data from parent to child commponent .
+
+we can use @api with method/function.
+
+
+Communication between child to parent is done via CustomEvents() constructor and is dispatch to parent using dispatchEvent.
+
 
