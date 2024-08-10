@@ -12,3 +12,7 @@ Final Outcome:
 The final product will feature a well-designed calculator with a clean background. The calculator includes two input fields: one for height (in centimeters) and one for weight (in kilograms). After entering these values, the user can click the "Calculate" button. The form will perform HTML validation to ensure both fields are filled out.
 
 For those unfamiliar with BMI, I have provided a description below the calculator that explains BMI ranges. For instance, when I input my height as 183 cm and my weight as 80 kg, the calculator computes a BMI value of 23.33, which falls within the healthy range of 18.5 to 24.9. This indicates that I am at a healthy weight. The calculator also provides feedback for other BMI ranges, such as underweight (below 18.5), overweight (25 to 29.9), and obese (above 30).
+
+follow this link to visit page:
+
+https://creative-impala-3zx6g-dev-ed.trailblaze.my.site.com/bmi-calculator
