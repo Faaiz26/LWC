@@ -1,1 +1,14 @@
+In this project, I am building a BMI (Body Mass Index) calculator. The BMI calculator helps determine whether a person is within a healthy weight range based on their height. This project serves as a learning experience that covers a variety of web development techniques and tools.
 
+Key Learnings:
+XHTML Layout Design: I will design the layout of the BMI calculator using XHTML.
+CSS Styling with Variables: The styling will be done using CSS, where I will utilize CSS variables for more dynamic and maintainable code.
+Salesforce's Slides Library: I will incorporate the Slides library, a CSS library provided by Salesforce, to enhance the UI.
+HTML Form and Validation: The project includes building a simple HTML form for height and weight inputs, complete with default HTML validation to ensure data accuracy.
+JavaScript Logic: I will write the core logic in JavaScript to perform the BMI calculation based on the user’s input.
+Experience Site Exposure: The project will also cover how to expose our component to the Salesforce Experience site.
+Static Resources and LWC Topics: Additionally, I’ll use static resources in CSS and explore some smaller Lightning Web Component (LWC) topics.
+Final Outcome:
+The final product will feature a well-designed calculator with a clean background. The calculator includes two input fields: one for height (in centimeters) and one for weight (in kilograms). After entering these values, the user can click the "Calculate" button. The form will perform HTML validation to ensure both fields are filled out.
+
+For those unfamiliar with BMI, I have provided a description below the calculator that explains BMI ranges. For instance, when I input my height as 183 cm and my weight as 80 kg, the calculator computes a BMI value of 23.33, which falls within the healthy range of 18.5 to 24.9. This indicates that I am at a healthy weight. The calculator also provides feedback for other BMI ranges, such as underweight (below 18.5), overweight (25 to 29.9), and obese (above 30).
